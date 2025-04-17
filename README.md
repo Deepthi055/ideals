@@ -4,7 +4,7 @@ Welcome to **Ideal Cafe**, a beautifully designed frontend website for a cozy an
 
 ## 🌐 Live Demo
 
-https://ideals.vercel.app/🚀](#) 
+https://ideals.vercel.app
 
 ---
 
